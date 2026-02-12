@@ -15,4 +15,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/obang-cham-596170a8" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+www.linkedin.com/in/obang-cham-596170a8
+
 
